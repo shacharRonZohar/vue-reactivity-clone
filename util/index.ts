@@ -1,4 +1,4 @@
-import type { Indexable } from '../done/types/index.js'
+import type { Indexable } from '../types/index.js'
 
 export function log(input: string, res: any) {
   console.log(
